@@ -1,0 +1,38 @@
+.input{
+    border-radius: 30px;
+    font-size: medium;
+    font-size: 400;
+    cursor: pointer;
+    margin-top: 50px;
+    text-align: center;
+    color: blueviolet;
+    padding: 15px 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    border: none;
+}
+
+.btn-primary{
+    border-radius: 30px;
+    background: linear-gradient(45deg, #6a5acd, #8a2be2);
+    font-size: medium;
+    font-weight: 400;
+    margin-top: 50px;
+    text-align: center;
+    color: white;
+    padding: 15px 30px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    border: none;
+    cursor: pointer;
+    
+
+}
+
+.btn-primary:hover{
+    color: #6a5acd;
+    background: white;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+}
+
